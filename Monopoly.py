@@ -6,7 +6,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQuer
 
 # ==========================================
 # ТОКЕН ВАШЕГО БОТА (Вставьте свой токен от @BotFather)
-TOKEN = "8425000689:AAFAozXyyKREJLKmdWJ7lSUnKye5C57Kv2c"
+BOT_TOKEN=8425000689:AAF1xnKUYhOTqtFsBSezpNANIDmjncJAKQQ
 # ==========================================
 
 BOARD = [
